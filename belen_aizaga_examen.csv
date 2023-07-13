@@ -1,41 +1,41 @@
-Country;GDP per capita (USD);Life satisfaction
-Afghanistan;19.200;25.229
-Albania;25.000;51.174
-Algeria;3.500;48.871
-Argentina;1.200;59.293
-Armenia;7.859;52.826
-Australia;1.236;71.835
-Austria;459;72.678
-Azerbaijan;789;51.708
-Bahrain;12000;66.469
-Bangladesh;13.000;50.246
-Belarus;25.000;55.335
-Belgium;25.100;6.834
-Benin;45.000;50.452
-Bolivia;64.000;57.159
-Bosnia and Herzegovina;5.800;58.131
-Botswana;9.100;34.665
-Bulgaria;10.000;52.655
-Burkina Faso;62.000;48.338
-Burundi;4.700;37.753
-Cambodia;42.886;48.304
-Cameroon;36.500;51.418
-Canada;42.100;71.033
-Chad;5.900;43.554
-Chile;76.000;61.719
-China;15.000;53.391
-Colombia;2.300;60.124
-Comoros;8.900;42.886
-Congo;8.540;53.417
-Costa Rica;5680;70.694
-Cote d'Ivoire;6.523;5.306
-Croatia;1.207;58.817
-Cyprus;4.598;62.235
-Czechia;2548;69.647
-Denmark;56987;76.195
-Dominican Republic;51.270;55.451
-Ecuador;58.974;5.764
-Egypt;5.168;42.827
-El Salvador;54.123;60.605
-Estonia;58972;61.888
-Eswatini;54.789;43.081
+Country,GDP per capita (USD),Life satisfaction
+Afghanistan,19.200,25.229
+Albania,25.000,51.174
+Algeria,3.500,48.871
+Argentina,1.200,59.293
+Armenia,7.859,52.826
+Australia,1.236,71.835
+Austria,459,72.678
+Azerbaijan,789,51.708
+Bahrain,12000,66.469
+Bangladesh,13.000,50.246
+Belarus,25.000,55.335
+Belgium,25.100,6.834
+Benin,45.000,50.452
+Bolivia,64.000,57.159
+Bosnia and Herzegovina,5.800,58.131
+Botswana,9.100,34.665
+Bulgaria,10.000,52.655
+Burkina Faso,62.000,48.338
+Burundi,4.700,37.753
+Cambodia,42.886,48.304
+Cameroon,36.500,51.418
+Canada,42.100,71.033
+Chad,5.900,43.554
+Chile,76.000,61.719
+China,15.000,53.391
+Colombia,2.300,60.124
+Comoros,8.900,42.886
+Congo,8.540,53.417
+Costa Rica,5680,70.694
+Cote d'Ivoire,6.523,5.306
+Croatia,1.207,58.817
+Cyprus,4.598,62.235
+Czechia,2548,69.647
+Denmark,56987,76.195
+Dominican Republic,51.270,55.451
+Ecuador,58.974,5.764
+Egypt,5.168,42.827
+El Salvador,54.123,60.605
+Estonia,58972,61.888
+Eswatini,54.789,43.081
